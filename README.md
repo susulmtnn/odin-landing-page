@@ -1,6 +1,6 @@
 
 
-Odin-landing-page
+# odin-landing-page
 
 In this project I practiced html and css (flexbox).
 
@@ -14,4 +14,4 @@ I did not include any pictures and kept the original texts for now.
 
 I might modify the project later.
 
-# odin-landing-page #html #css #flexbox #landingpage
+ #html #css #flexbox #landingpage
